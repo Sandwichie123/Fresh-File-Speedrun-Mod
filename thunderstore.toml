@@ -3,8 +3,8 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "Sandwich"
-name = "FFMod"
+namespace = "Sandwichie123"
+name = "FF Reset Reduction Mod"
 versionNumber = "0.0.0"
 description = "RNG cut in First-Run Fresh File speedruns"
 websiteUrl = "https://github.com/Sandwichie123/ffMod"
