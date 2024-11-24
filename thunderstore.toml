@@ -3,7 +3,7 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "TeamSandwichie"
+namespace = "SandwichietheTeam"
 name = "FreshFileSpeedrunningMod"
 versionNumber = "1.0.0"
 description = "Cuts down on RNG in First-Run Fresh File Speedruns for practice"
